@@ -1,0 +1,1 @@
+export { default } from 'nullbase-wrapper/components/nb-wrapper/component';
